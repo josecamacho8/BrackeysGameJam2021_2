@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/PianoGroove.mp3-2f421671bab21b2122a2be3e17fed5c8.mp3str"
+
+[deps]
+
+source_file="res://Resources/Sounds/PianoGroove.mp3"
+dest_files=[ "res://.import/PianoGroove.mp3-2f421671bab21b2122a2be3e17fed5c8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

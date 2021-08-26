@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/320232__foolboymedia__video-game-land.wav-190830f950ad4c31670cd72721236fb7.sample"
+
+[deps]
+
+source_file="res://Resources/Sounds/320232__foolboymedia__video-game-land.wav"
+dest_files=[ "res://.import/320232__foolboymedia__video-game-land.wav-190830f950ad4c31670cd72721236fb7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

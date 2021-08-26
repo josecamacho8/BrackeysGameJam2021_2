@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ClothMovementJacket.wav-97ea8b5d473466d45c08794804e61a00.sample"
+
+[deps]
+
+source_file="res://Resources/Sounds/ClothMovementJacket.wav"
+dest_files=[ "res://.import/ClothMovementJacket.wav-97ea8b5d473466d45c08794804e61a00.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

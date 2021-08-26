@@ -12,6 +12,7 @@ func _on_ScoreTimer_timeout():
 	g_player_score += 30
 	$HUD/Score.text = str(g_player_score)
 	obj_score_overlap.consume(Color("6ef70c0c"))
+	$ScoreSound.play()
 
 func enter_score_area(object):
 	obj_score_overlap = object
